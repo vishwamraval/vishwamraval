@@ -58,6 +58,5 @@
 [![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwamraval&" alt="vishwamraval" /></p>
 
 <br/>Let's build amazing things together! 🚀
